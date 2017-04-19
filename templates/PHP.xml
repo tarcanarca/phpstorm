@@ -1,0 +1,31 @@
+<templateSet group="PHP">
+  <template name="tr" value="$trace = debug_backtrace();&#10;foreach ($trace as $t) {&#10;    error_log($t['class'].'#'.$t['function'].':'.$t['line']);&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="err" value="error_log('$TEXT$: ' . $$$VARIABLE$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="_c" value="public function __construct($VARS$)&#10;{&#10;    $END$      &#10;}" description="Create constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="surrdump" value="dump($SELECTION$)" description="Surround with dum" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="er" value="error_log('$TEXT$');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
