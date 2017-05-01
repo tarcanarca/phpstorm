@@ -33,6 +33,7 @@
       <mask>*js,*php</mask>
       <mask>*repository*php</mask>
       <mask>*yml</mask>
+      <mask>*tpl</mask>
       <mask>*php</mask>
     </recentFileMasks>
   </component>
