@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta f7" />
   </action>
@@ -14,4 +17,5 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="VcsHistory.ShowAllAffected" />
 </keymap>
