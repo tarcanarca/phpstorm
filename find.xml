@@ -5,17 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.xml</mask>
-      <mask>*ml</mask>
-      <mask>*xml</mask>
-      <mask>*php\</mask>
-      <mask>*php,*xml</mask>
-      <mask>*text*php</mask>
-      <mask>*test*php</mask>
       <mask>*yml,*xml,*php</mask>
       <mask>*js</mask>
       <mask>*php,*js</mask>
@@ -30,9 +19,20 @@
       <mask>*yml</mask>
       <mask>*r</mask>
       <mask>*rb</mask>
-      <mask>*</mask>
       <mask>*pjp</mask>
       <mask>*pj</mask>
+      <mask>*phthp</mask>
+      <mask>*h</mask>
+      <mask>*ht</mask>
+      <mask>*hta</mask>
+      <mask>*htac</mask>
+      <mask>*htacces</mask>
+      <mask>*htaccess</mask>
+      <mask>*htaccesst</mask>
+      <mask>*htaccesstpl</mask>
+      <mask>t</mask>
+      <mask>*</mask>
+      <mask>*t</mask>
       <mask>*tpl</mask>
       <mask>*php</mask>
     </recentFileMasks>
