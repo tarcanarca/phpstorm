@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*yml,*xml,*php</mask>
       <mask>*js</mask>
       <mask>*php,*js</mask>
       <mask>*xml,*php</mask>
@@ -34,6 +33,7 @@
       <mask>*</mask>
       <mask>*t</mask>
       <mask>*tpl</mask>
+      <mask>*p</mask>
       <mask>*php</mask>
     </recentFileMasks>
   </component>
