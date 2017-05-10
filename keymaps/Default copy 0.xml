@@ -1,4 +1,10 @@
 <keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
