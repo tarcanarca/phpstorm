@@ -3,10 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*js</mask>
-      <mask>*php,*js</mask>
       <mask>*xml,*php</mask>
       <mask>*service*php</mask>
       <mask>*xliff</mask>
@@ -34,7 +31,9 @@
       <mask>*p</mask>
       <mask>*t</mask>
       <mask>*tpl</mask>
+      <mask>*ph!p</mask>
       <mask>*php</mask>
+      <mask>!*php</mask>
     </recentFileMasks>
   </component>
 </application>
