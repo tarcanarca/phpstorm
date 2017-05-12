@@ -18,6 +18,10 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta f7" />
   </action>
