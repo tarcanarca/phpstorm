@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
