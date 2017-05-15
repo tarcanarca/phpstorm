@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*xml,*php</mask>
-      <mask>*service*php</mask>
-      <mask>*xliff</mask>
-      <mask>*dcm.xml</mask>
       <mask>*strategy*php</mask>
       <mask>*strategy.php</mask>
       <mask>*js,*php</mask>
@@ -27,13 +24,17 @@
       <mask>*htaccesst</mask>
       <mask>*htaccesstpl</mask>
       <mask>t</mask>
-      <mask>*</mask>
       <mask>*p</mask>
       <mask>*t</mask>
       <mask>*tpl</mask>
       <mask>*ph!p</mask>
-      <mask>*php</mask>
       <mask>!*php</mask>
+      <mask>*</mask>
+      <mask>*[h[</mask>
+      <mask>*[h</mask>
+      <mask>*[</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
