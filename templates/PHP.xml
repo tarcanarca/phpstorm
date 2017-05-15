@@ -28,4 +28,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="print" value="echo(&quot;$END$&quot;);&#10;echo &quot;\n&quot;;" description="Prints string with new line char appended" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
