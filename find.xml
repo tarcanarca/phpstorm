@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
+    <option name="FILE_MASK" value="!*Test.php" />
     <recentFileMasks>
-      <mask>*strategy.php</mask>
-      <mask>*js,*php</mask>
-      <mask>*repository*php</mask>
-      <mask>*yml</mask>
-      <mask>*r</mask>
-      <mask>*rb</mask>
       <mask>*pjp</mask>
       <mask>*pj</mask>
       <mask>*phthp</mask>
@@ -27,7 +21,6 @@
       <mask>*t</mask>
       <mask>*tpl</mask>
       <mask>*ph!p</mask>
-      <mask>!*php</mask>
       <mask>*</mask>
       <mask>*[h[</mask>
       <mask>*[h</mask>
@@ -35,6 +28,13 @@
       <mask>*ph</mask>
       <mask>*php&amp;</mask>
       <mask>*php</mask>
+      <mask>!T*php</mask>
+      <mask>!*php</mask>
+      <mask>!**php</mask>
+      <mask>!*T*php</mask>
+      <mask>!*Test*php</mask>
+      <mask>!*Testphp</mask>
+      <mask>!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
