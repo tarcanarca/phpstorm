@@ -3,30 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.php" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*pj</mask>
-      <mask>*phthp</mask>
-      <mask>*h</mask>
-      <mask>*ht</mask>
-      <mask>*hta</mask>
-      <mask>*htac</mask>
-      <mask>*htacces</mask>
-      <mask>*htaccess</mask>
-      <mask>*htaccesst</mask>
-      <mask>*htaccesstpl</mask>
-      <mask>t</mask>
-      <mask>*p</mask>
-      <mask>*t</mask>
-      <mask>*tpl</mask>
-      <mask>*ph!p</mask>
-      <mask>*</mask>
-      <mask>*[h[</mask>
       <mask>*[h</mask>
-      <mask>*[</mask>
       <mask>*ph</mask>
-      <mask>*php&amp;</mask>
-      <mask>*php</mask>
       <mask>!T*php</mask>
       <mask>!*php</mask>
       <mask>!**php</mask>
@@ -35,6 +15,26 @@
       <mask>!*Testphp</mask>
       <mask>*Test.php</mask>
       <mask>!*Test.php</mask>
+      <mask>!*.php</mask>
+      <mask>!.php</mask>
+      <mask>!php</mask>
+      <mask>php</mask>
+      <mask>*php&amp;±</mask>
+      <mask>*php&amp;?</mask>
+      <mask>*php&amp;</mask>
+      <mask>*php&amp;!</mask>
+      <mask>*php&amp;!*</mask>
+      <mask>*php&amp;!*T</mask>
+      <mask>*php&amp;!*Test</mask>
+      <mask>*php&amp;!*Test.</mask>
+      <mask>*php&amp;!*Test.p</mask>
+      <mask>*php&amp;!*Test.php</mask>
+      <mask>*php,*Test.php</mask>
+      <mask>*php,!*Test.php</mask>
+      <mask>*</mask>
+      <mask>*[</mask>
+      <mask>*p</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
