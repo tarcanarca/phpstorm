@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
+    <option name="FILE_MASK" value="*php,!*Test.php" />
     <recentFileMasks>
-      <mask>*[</mask>
-      <mask>*p</mask>
-      <mask>!*tpl</mask>
-      <mask>!*T</mask>
-      <mask>!*Test.pph</mask>
-      <mask>!*Test.pp</mask>
-      <mask>!*Test.p</mask>
-      <mask>*!*Test.php</mask>
-      <mask>*pp!*Test.php</mask>
       <mask>*p!*Test.php</mask>
       <mask>*ph!*Test.php</mask>
       <mask>*php*!*Test.php</mask>
       <mask>*php&amp;!*Test.php</mask>
       <mask>*php|!*Test.php</mask>
       <mask>*php.!*Test.php</mask>
-      <mask>*php!*Test.php</mask>
       <mask>*tpl*</mask>
       <mask>*tpl</mask>
       <mask>*tp</mask>
       <mask>*t</mask>
       <mask>*</mask>
       <mask>*php</mask>
-      <mask>!*Test.php</mask>
       <mask>!**Test.php</mask>
       <mask>!*p*Test.php</mask>
       <mask>!*php*Test.php</mask>
       <mask>!*php,*Test.php</mask>
       <mask>*php,*Test.php</mask>
-      <mask>*php,!*Test.php</mask>
+      <mask>*Tes*t.php</mask>
+      <mask>*Tes*.t.php</mask>
+      <mask>*Tes*.pt.php</mask>
+      <mask>*Tes*.phpt.php</mask>
+      <mask>*Tes*.php,!t.php</mask>
+      <mask>*Tes*.php,t.php</mask>
+      <mask>*Tes*.php, t.php</mask>
+      <mask>*Tes!t.php</mask>
       <mask>*Test.php</mask>
+      <mask>!*Test.php</mask>
+      <mask>*!*Test.php</mask>
+      <mask>*php!*Test.php</mask>
+      <mask>*php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
