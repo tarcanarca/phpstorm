@@ -34,6 +34,10 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
