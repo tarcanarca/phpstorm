@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
     <recentFileMasks>
       <mask>php!*Test.php</mask>
       <mask>php,!*Test.php</mask>
@@ -13,7 +14,6 @@
       <mask>*.php&amp;!*Test.php</mask>
       <mask>*.php!*Test.php</mask>
       <mask>*.php,!*Test.php</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.php, !*Test.php</mask>
       <mask>!8</mask>
@@ -25,16 +25,17 @@
       <mask>*.php</mask>
       <mask>*t</mask>
       <mask>*tpl</mask>
-      <mask>*php</mask>
-      <mask>*php,</mask>
       <mask>*php,!</mask>
       <mask>*php,!*</mask>
       <mask>*php,!*T</mask>
       <mask>*,!*Test.php</mask>
       <mask>*t,!*Test.php</mask>
       <mask>*tpl,!*Test.php</mask>
-      <mask>*php,!*Test.php</mask>
       <mask>*Test.php</mask>
+      <mask>*</mask>
+      <mask>*php,</mask>
+      <mask>*php</mask>
+      <mask>*php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
