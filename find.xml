@@ -5,13 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.php" />
     <recentFileMasks>
-      <mask>php!*Test.php</mask>
-      <mask>php,!*Test.php</mask>
-      <mask>php, !*Test.php</mask>
-      <mask>*php, !*Test.php</mask>
-      <mask>*.php|!*Test.php</mask>
-      <mask>*.php&amp;!*Test.php</mask>
       <mask>*.php!*Test.php</mask>
       <mask>*.php,!*Test.php</mask>
       <mask>*.</mask>
@@ -31,11 +26,17 @@
       <mask>*,!*Test.php</mask>
       <mask>*t,!*Test.php</mask>
       <mask>*tpl,!*Test.php</mask>
-      <mask>*Test.php</mask>
-      <mask>*</mask>
       <mask>*php,</mask>
       <mask>*php</mask>
       <mask>*php,!*Test.php</mask>
+      <mask>*</mask>
+      <mask>*T</mask>
+      <mask>*Te</mask>
+      <mask>*Test</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.p</mask>
+      <mask>*Test.pp</mask>
+      <mask>*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
