@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.xml</mask>
-      <mask>*ml</mask>
-      <mask>*xml</mask>
-      <mask>*php\</mask>
-      <mask>*php,*xml</mask>
-      <mask>*text*php</mask>
-      <mask>*test*php</mask>
-      <mask>*yml,*xml,*php</mask>
-      <mask>*js</mask>
-      <mask>*php,*js</mask>
-      <mask>*xml,*php</mask>
-      <mask>*service*php</mask>
-      <mask>*xliff</mask>
-      <mask>*dcm.xml</mask>
-      <mask>*strategy*php</mask>
-      <mask>*strategy.php</mask>
-      <mask>*js,*php</mask>
-      <mask>*repository*php</mask>
-      <mask>*yml</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.php</mask>
+      <mask>*t</mask>
       <mask>*tpl</mask>
+      <mask>*,!*Test.php</mask>
+      <mask>*t,!*Test.php</mask>
+      <mask>*tpl,!*Test.php</mask>
+      <mask>*T</mask>
+      <mask>*Te</mask>
+      <mask>*Test</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.p</mask>
+      <mask>*Test.pp</mask>
       <mask>*php</mask>
+      <mask>*php,*</mask>
+      <mask>*php,</mask>
+      <mask>*php,!</mask>
+      <mask>*php,!*</mask>
+      <mask>*php,!*T</mask>
+      <mask>*php,!*Test.</mask>
+      <mask>*php,!*Test.php</mask>
+      <mask>if (!Payment\Types::hasThirdPartySettlement($payment_type_id)) {                 $total_amount += $amount;             }</mask>
+      <mask>*Test.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.php, !*Test.php</mask>
+      <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>

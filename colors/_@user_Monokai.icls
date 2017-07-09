@@ -4,11 +4,11 @@
     <property name="created">2017-03-20T08:36:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-04-03T14:07:02</property>
+    <property name="modified">2017-06-01T14:04:48</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
@@ -21,7 +21,7 @@
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
-    <option name="SELECTION_BACKGROUND" value="49483e" />
+    <option name="SELECTION_BACKGROUND" value="ac1452" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
