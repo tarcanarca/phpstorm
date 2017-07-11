@@ -33,4 +33,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="println" value="print($TEXT$ . PHP_EOL);$END$" description="Print line appended by PHP_EOL" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
