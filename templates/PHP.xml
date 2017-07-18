@@ -33,9 +33,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="pubf" value="public function $NAME$($ARGS$)&#10;{&#10;    $END$&#10;}" description="Public Function" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="println" value="print($TEXT$ . PHP_EOL);$END$" description="Print line appended by PHP_EOL" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
