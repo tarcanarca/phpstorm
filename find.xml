@@ -3,16 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>*php,!*</mask>
-      <mask>*php,!*T</mask>
-      <mask>*php,!*Test.</mask>
-      <mask>*php,!*Test.php</mask>
-      <mask>if (!Payment\Types::hasThirdPartySettlement($payment_type_id)) {                 $total_amount += $amount;             }</mask>
-      <mask>*Test.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php, !*Test.php</mask>
       <mask>*.ypl,!*Test.php</mask>
       <mask>*.yp,!*Test.php</mask>
@@ -35,6 +26,14 @@
       <mask>*.php,!*Tets.php</mask>
       <mask>*.php,!*Tes.php</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*tpl</mask>
+      <mask>*tp</mask>
+      <mask>*t</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*ph</mask>
+      <mask>*php</mask>
+      <mask>*php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
