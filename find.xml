@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*tpl" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
-      <mask>*.ypl,!*Test.php</mask>
-      <mask>*.yp,!*Test.php</mask>
-      <mask>*.yt,!*Test.php</mask>
-      <mask>*.y,!*Test.php</mask>
-      <mask>*.tpl,!*Test.php</mask>
       <mask>*.tpl*,!*Test.php</mask>
       <mask>*.*,!*Test.php</mask>
       <mask>*.,!*Test.php</mask>
@@ -27,14 +22,19 @@
       <mask>*.php,!*Tes.php</mask>
       <mask>*.php,!*Test.php</mask>
       <mask>*tp</mask>
-      <mask>*p</mask>
       <mask>*ph</mask>
       <mask>*php,!*Test.php</mask>
       <mask>*topl</mask>
-      <mask>*php</mask>
       <mask>*</mask>
       <mask>*t</mask>
       <mask>*tpl</mask>
+      <mask>*oho</mask>
+      <mask>*oh</mask>
+      <mask>*ophp</mask>
+      <mask>*op</mask>
+      <mask>*o</mask>
+      <mask>*p</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
