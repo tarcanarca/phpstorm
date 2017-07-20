@@ -44,6 +44,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
