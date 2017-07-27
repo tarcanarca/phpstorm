@@ -3,36 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
       <mask>*php,!*</mask>
       <mask>*php,!*T</mask>
+      <mask>*php,!*Te</mask>
+      <mask>*php,!*Tes</mask>
       <mask>*php,!*Test.</mask>
+      <mask>*php,!*Test.p</mask>
       <mask>*php,!*Test.php</mask>
-      <mask>if (!Payment\Types::hasThirdPartySettlement($payment_type_id)) {                 $total_amount += $amount;             }</mask>
+      <mask>*tp</mask>
+      <mask>*tpl</mask>
+      <mask>*T</mask>
+      <mask>*Test.</mask>
       <mask>*Test.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.php, !*Test.php</mask>
-      <mask>*.ypl,!*Test.php</mask>
-      <mask>*.yp,!*Test.php</mask>
-      <mask>*.yt,!*Test.php</mask>
-      <mask>*.y,!*Test.php</mask>
-      <mask>*.tpl,!*Test.php</mask>
-      <mask>*.tpl*,!*Test.php</mask>
-      <mask>*.*,!*Test.php</mask>
-      <mask>*.,!*Test.php</mask>
-      <mask>*.rm</mask>
-      <mask>*.rb</mask>
+      <mask>*.,!php</mask>
+      <mask>*.,php</mask>
+      <mask>*.php|!</mask>
+      <mask>*.php|</mask>
+      <mask>*.php&lt;!</mask>
+      <mask>*.php&lt;</mask>
+      <mask>*.phpm</mask>
       <mask>*.php</mask>
-      <mask>*.php,~</mask>
       <mask>*.php,</mask>
+      <mask>*.php,!T</mask>
       <mask>*.php,!</mask>
-      <mask>*.php,!8</mask>
       <mask>*.php,!*</mask>
-      <mask>*.php,!*T</mask>
-      <mask>*.php,!*Tets.p</mask>
-      <mask>*.php,!*Tets.php</mask>
-      <mask>*.php,!*Tes.php</mask>
+      <mask>*.php,!*test.</mask>
+      <mask>*.php,!*test.pp</mask>
+      <mask>*.php,!*test.p</mask>
+      <mask>*.php,!*test.php</mask>
+      <mask>*.php,!*Test.phpp</mask>
       <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
