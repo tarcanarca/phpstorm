@@ -2,16 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>*php,!*</mask>
-      <mask>*php,!*T</mask>
-      <mask>*php,!*Te</mask>
-      <mask>*php,!*Tes</mask>
-      <mask>*php,!*Test.</mask>
       <mask>*php,!*Test.p</mask>
       <mask>*php,!*Test.php</mask>
       <mask>*tp</mask>
@@ -25,7 +18,6 @@
       <mask>*.php&lt;!</mask>
       <mask>*.php&lt;</mask>
       <mask>*.phpm</mask>
-      <mask>*.php,</mask>
       <mask>*.php,!T</mask>
       <mask>*.php,!</mask>
       <mask>*.php,!*</mask>
@@ -34,9 +26,15 @@
       <mask>*.php,!*test.p</mask>
       <mask>*.php,!*test.php</mask>
       <mask>*.php,!*Test.phpp</mask>
-      <mask>*.php,!*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,|</mask>
+      <mask>*.php,|*</mask>
+      <mask>*.php,|*T</mask>
+      <mask>*.php,|*Test.php</mask>
+      <mask>*.php,|!*Test.php</mask>
+      <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
