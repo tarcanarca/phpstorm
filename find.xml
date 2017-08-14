@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>*.php,!*test.p</mask>
-      <mask>*.php,!*test.php</mask>
-      <mask>*.php,!*Test.phpp</mask>
-      <mask>*.php,|</mask>
       <mask>*.php,|*</mask>
       <mask>*.php,|*T</mask>
       <mask>*.php,|*Test.php</mask>
@@ -31,9 +27,13 @@
       <mask>p</mask>
       <mask>php</mask>
       <mask>IN_PROGRESS</mask>
-      <mask>*Test.php</mask>
       <mask>*.</mask>
+      <mask>*Test.php</mask>
+      <mask>*php</mask>
       <mask>*.php</mask>
+      <mask>*.php,!*Test.phpphp</mask>
+      <mask>*.php,!*Test.phpph</mask>
+      <mask>*.php,!*Test.phpp</mask>
       <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
