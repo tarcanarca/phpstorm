@@ -29,11 +29,11 @@
       <mask>*.[</mask>
       <mask>*.p.</mask>
       <mask>*.ph</mask>
-      <mask>*Test.php</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
