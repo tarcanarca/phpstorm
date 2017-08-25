@@ -3843,74 +3843,6 @@
           <option name="key" value="$e" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-bootstrap" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-component" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-component-root" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-http-get" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-pipe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-service" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-subscribe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngClass" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngFor" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngIf" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngModel" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngStyle" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-ngSwitch" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-routerLink" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-routing" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-module-root" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular2" />
-          <option name="key" value="ng2-module" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="SQL" />
           <option name="key" value="sel" />
         </TemplateKey>
@@ -3976,15 +3908,7 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="PHP" />
-          <option name="key" value="prof" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
           <option name="key" value="prosf" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="PHP" />
-          <option name="key" value="prif" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="PHP" />
