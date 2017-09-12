@@ -25,7 +25,6 @@
       <mask>tpl</mask>
       <mask>*tpl</mask>
       <mask>*.tpl</mask>
-      <mask>*.php</mask>
       <mask>*.php,!*Test.php</mask>
       <mask>*.sql</mask>
       <mask>*.Tql</mask>
@@ -36,6 +35,7 @@
       <mask>*Test.php ql</mask>
       <mask>*Test.php</mask>
       <mask>*Test.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
