@@ -1,18 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>.t</mask>
-      <mask>.</mask>
-      <mask>tpl</mask>
-      <mask>*tpl</mask>
-      <mask>*.tpl</mask>
       <mask>*.sql</mask>
       <mask>*.Tql</mask>
       <mask>*.ql</mask>
@@ -20,7 +18,6 @@
       <mask>*Tql</mask>
       <mask>*Testql</mask>
       <mask>*Test.php ql</mask>
-      <mask>*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>*.php</mask>
       <mask>*.php,&amp;</mask>
@@ -37,6 +34,12 @@
       <mask>*.php,!*T.est.</mask>
       <mask>*.php,!*Test.</mask>
       <mask>*.php,!*Test.p</mask>
+      <mask>*Test.php</mask>
+      <mask>*dTest.php</mask>
+      <mask>*direTest.php</mask>
+      <mask>*direcTest.php</mask>
+      <mask>*directTest.php</mask>
+      <mask>*direct*Test.php</mask>
       <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
