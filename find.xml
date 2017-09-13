@@ -6,26 +6,11 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.o</mask>
-      <mask>*.ph</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,!</mask>
-      <mask>*.php,!*</mask>
-      <mask>*.php,!*T</mask>
-      <mask>*.php,!*Te</mask>
-      <mask>*.php,!*Test.p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>.tpl</mask>
-      <mask>.tp</mask>
       <mask>.t</mask>
       <mask>.</mask>
       <mask>tpl</mask>
       <mask>*tpl</mask>
       <mask>*.tpl</mask>
-      <mask>*.php,!*Test.php</mask>
       <mask>*.sql</mask>
       <mask>*.Tql</mask>
       <mask>*.ql</mask>
@@ -36,6 +21,21 @@
       <mask>*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>*.php</mask>
+      <mask>*.php,&amp;</mask>
+      <mask>*.php,*Test</mask>
+      <mask>*.php,*Tes</mask>
+      <mask>*.php,*Te</mask>
+      <mask>*.php,*T</mask>
+      <mask>*.php,*</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,!</mask>
+      <mask>*.php,!*</mask>
+      <mask>*.php,!*T</mask>
+      <mask>*.php,!*Test</mask>
+      <mask>*.php,!*T.est.</mask>
+      <mask>*.php,!*Test.</mask>
+      <mask>*.php,!*Test.p</mask>
+      <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
