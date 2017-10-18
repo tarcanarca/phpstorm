@@ -17,7 +17,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="surrdump" value="dump($SELECTION$)" description="Surround with dum" toReformat="false" toShortenFQNames="true">
+  <template name="surrprintln" value="print($SELECTION$ . PHP_EOL);die;" description="Surround with println" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
