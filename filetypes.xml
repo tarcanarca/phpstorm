@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="beforefix" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
