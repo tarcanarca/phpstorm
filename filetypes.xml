@@ -4,6 +4,7 @@
       <mapping pattern="beforefix" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="mt940" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
