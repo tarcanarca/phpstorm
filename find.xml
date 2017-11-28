@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php, !*Test.php" />
     <recentFileMasks>
       <mask>**Test.php</mask>
       <mask>*.*Test.php</mask>
@@ -12,7 +13,6 @@
       <mask>*.php. *Test.php</mask>
       <mask>*.php.*Test.php</mask>
       <mask>*.php, *Test.php</mask>
-      <mask>*.php, !*Test.php</mask>
       <mask>*.php,</mask>
       <mask>*.ph</mask>
       <mask>*.t</mask>
@@ -34,6 +34,7 @@
       <mask>*cron&amp;</mask>
       <mask>*c/ron*</mask>
       <mask>*cron*</mask>
+      <mask>*.php, !*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
