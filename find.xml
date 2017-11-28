@@ -4,16 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>*.php,!</mask>
-      <mask>*.php,!*</mask>
-      <mask>*.php,!*T</mask>
-      <mask>*.php,!*Test.</mask>
-      <mask>*.php,!*Test.p</mask>
-      <mask>*Tes*.pht.php</mask>
-      <mask>*Tes*.pt.php</mask>
-      <mask>*Tes*.t.php</mask>
-      <mask>*Tes*t.php</mask>
       <mask>**Test.php</mask>
       <mask>*.*Test.php</mask>
       <mask>*.ptp*Test.php</mask>
@@ -31,9 +21,19 @@
       <mask>*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*.cr</mask>
+      <mask>*.cronta</mask>
+      <mask>*crontab</mask>
+      <mask>*.crontab</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cron</mask>
+      <mask>*cron</mask>
+      <mask>*cron&amp;</mask>
+      <mask>*c/ron*</mask>
+      <mask>*cron*</mask>
     </recentFileMasks>
   </component>
 </application>
