@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
       <mask>*.crontab</mask>
       <mask>*.</mask>
@@ -25,16 +25,16 @@
       <mask>*php,!*Test.p</mask>
       <mask>*php,!*Test.php</mask>
       <mask>*.p,hp</mask>
+      <mask>*.php,!*Te</mask>
+      <mask>*.php,!*Tes</mask>
+      <mask>*Test.php</mask>
+      <mask>*Test.php</mask>
+      <mask>*.php</mask>
       <mask>*.php,</mask>
       <mask>*.php,!</mask>
       <mask>*.php,!*</mask>
       <mask>*.php,!*T</mask>
-      <mask>*.php,!*Te</mask>
-      <mask>*.php,!*Tes</mask>
       <mask>*.php,!*Test.php</mask>
-      <mask>*Test.php</mask>
-      <mask>*Test.php</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
