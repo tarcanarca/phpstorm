@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
