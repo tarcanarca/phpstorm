@@ -50,9 +50,6 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="RecentProjectListGroup">
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
-  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
