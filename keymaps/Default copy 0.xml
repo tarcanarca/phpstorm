@@ -38,9 +38,6 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
-  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
@@ -52,6 +49,9 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
