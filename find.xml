@@ -5,13 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php,!*Test.php" />
+    <option name="FILE_MASK" value="*integration*Test.php" />
     <recentFileMasks>
-      <mask>!(up.sql</mask>
-      <mask>!up.sql</mask>
-      <mask>!up.sql,</mask>
-      <mask>!up.sql,</mask>
-      <mask>!up.sql,!</mask>
       <mask>!up.sql,!do</mask>
       <mask>!up.sql,!down</mask>
       <mask>!up.sql,!down.</mask>
@@ -37,6 +32,11 @@
       <mask>*.php,!*Tes</mask>
       <mask>*.php,!*Test</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*Test.php</mask>
+      <mask>**Test.php</mask>
+      <mask>*inte*Test.php</mask>
+      <mask>*integ*Test.php</mask>
+      <mask>*integration*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
