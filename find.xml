@@ -1,40 +1,42 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,!*Test.php" />
     <recentFileMasks>
-      <mask>*.php,!*.te</mask>
-      <mask>*.php,!*.t</mask>
-      <mask>*.php,!*.Test.</mask>
+      <mask>!up.sql,!down.</mask>
+      <mask>!up.sql,!down.sql</mask>
+      <mask>*.hp</mask>
+      <mask>*.h</mask>
+      <mask>*.yp</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
       <mask>*.php,!*.Test</mask>
       <mask>*.php,!*.Tes</mask>
       <mask>*.php,!*.Te</mask>
       <mask>*.php,!*.T</mask>
       <mask>*.php,!*.</mask>
+      <mask>*.php,!*Tes</mask>
+      <mask>*.php,!*Test</mask>
+      <mask>**Test.php</mask>
+      <mask>*inte*Test.php</mask>
+      <mask>*integ*Test.php</mask>
+      <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
+      <mask>*integration*Test.php</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,!</mask>
       <mask>*.php,!*</mask>
       <mask>*.php,!*T</mask>
-      <mask>*.php,!*Te</mask>
-      <mask>*.php,!*Test</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*php,</mask>
-      <mask>*php,!*Test.php</mask>
-      <mask>*sphp</mask>
-      <mask>*sqphp</mask>
-      <mask>*sqlphp</mask>
-      <mask>*sql</mask>
-      <mask>*p</mask>
-      <mask>*php</mask>
-      <mask>*Tphp</mask>
-      <mask>*.php,!*Test.p</mask>
-      <mask>*.php,!*Test.ph</mask>
-      <mask>*.php,!*Test.php</mask>
-      <mask>*T.php</mask>
       <mask>*Test.php</mask>
       <mask>*.php</mask>
+      <mask>*tpl*</mask>
+      <mask>*.php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
