@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*php" />
+    <option name="FILE_MASK" value="*php,!*Test.php" />
     <recentFileMasks>
-      <mask>*.hp</mask>
       <mask>*.h</mask>
       <mask>*.yp</mask>
       <mask>*.y</mask>
@@ -35,6 +34,7 @@
       <mask>*Test.php</mask>
       <mask>!*test*</mask>
       <mask>*php</mask>
+      <mask>*php,!*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
