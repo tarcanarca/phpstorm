@@ -30,10 +30,10 @@
       <mask>*Test.php</mask>
       <mask>!*test*</mask>
       <mask>*php,!*Test.php</mask>
-      <mask>*php,!*Test*</mask>
       <mask>*tpl*</mask>
       <mask>*tpl</mask>
       <mask>*php</mask>
+      <mask>*php,!*Test*</mask>
     </recentFileMasks>
   </component>
 </application>
