@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*php" />
+    <option name="FILE_MASK" value="*sql" />
     <recentFileMasks>
       <mask>*.tpl</mask>
       <mask>*.php,!*.Test</mask>
@@ -31,10 +31,10 @@
       <mask>*tpl</mask>
       <mask>*php,!*Test*</mask>
       <mask>**Test*</mask>
-      <mask>*sql</mask>
       <mask>*.php,!*Test.php</mask>
       <mask>*tpl*</mask>
       <mask>*php</mask>
+      <mask>*sql</mask>
     </recentFileMasks>
   </component>
 </application>
