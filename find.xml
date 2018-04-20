@@ -7,16 +7,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*php,!*Test.php" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.yp</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.tpl</mask>
-      <mask>*.php,!*.Test</mask>
-      <mask>*.php,!*.Tes</mask>
-      <mask>*.php,!*.Te</mask>
-      <mask>*.php,!*.T</mask>
-      <mask>*.php,!*.</mask>
       <mask>*.php,!*Tes</mask>
       <mask>*.php,!*Test</mask>
       <mask>**Test.php</mask>
@@ -29,13 +19,23 @@
       <mask>*.php,!</mask>
       <mask>*.php,!*</mask>
       <mask>*.php,!*T</mask>
-      <mask>*.php</mask>
-      <mask>*tpl*</mask>
       <mask>*integration*Test.php</mask>
-      <mask>*.php,!*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>!*test*</mask>
+      <mask>*php,!*Test*</mask>
+      <mask>**Test*</mask>
+      <mask>*tpl*</mask>
       <mask>*php</mask>
+      <mask>*sql</mask>
+      <mask>*.php,!*Test.p</mask>
+      <mask>*.sql</mask>
+      <mask>*.t</mask>
+      <mask>*.tpl</mask>
+      <mask>*.php,*tpl</mask>
+      <mask>*.css</mask>
+      <mask>*.php</mask>
+      <mask>*.php,!*Test.php</mask>
+      <mask>*tpl</mask>
       <mask>*php,!*Test.php</mask>
     </recentFileMasks>
   </component>
