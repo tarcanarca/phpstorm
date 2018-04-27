@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.php,!*Test</mask>
       <mask>**Test.php</mask>
@@ -30,12 +31,12 @@
       <mask>*.tpl</mask>
       <mask>*.php,*tpl</mask>
       <mask>*.css</mask>
-      <mask>*.php</mask>
       <mask>*tpl</mask>
       <mask>*php,!*Test.php</mask>
       <mask>*Test.php</mask>
       <mask>p</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
