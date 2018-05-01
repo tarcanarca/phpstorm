@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="up.sql" />
     <recentFileMasks>
-      <mask>*.php,!*Test</mask>
       <mask>**Test.php</mask>
       <mask>*inte*Test.php</mask>
       <mask>*integ*Test.php</mask>
@@ -35,6 +34,7 @@
       <mask>p</mask>
       <mask>*.php,!*Test.php</mask>
       <mask>*.php</mask>
+      <mask>up.sql</mask>
     </recentFileMasks>
   </component>
 </application>
