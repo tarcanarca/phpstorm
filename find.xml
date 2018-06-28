@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*sql" />
     <recentFileMasks>
       <mask>**Test.php</mask>
       <mask>*inte*Test.php</mask>
@@ -22,7 +25,6 @@
       <mask>**Test*</mask>
       <mask>*tpl*</mask>
       <mask>*php</mask>
-      <mask>*sql</mask>
       <mask>*.php,!*Test.p</mask>
       <mask>*.t</mask>
       <mask>*.tpl</mask>
@@ -36,6 +38,7 @@
       <mask>*.php</mask>
       <mask>*.sql</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*sql</mask>
     </recentFileMasks>
   </component>
 </application>
