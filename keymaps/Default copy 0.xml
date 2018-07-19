@@ -61,4 +61,7 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="XDebugger.ToggleSortValues">
+    <keyboard-shortcut first-keystroke="ctrl meta alt a" />
+  </action>
 </keymap>
