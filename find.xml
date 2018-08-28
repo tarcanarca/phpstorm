@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php,!*Test.php" />
+    <option name="FILE_MASK" value="*.php,!*Test.php,!*testbase*" />
     <recentFileMasks>
-      <mask>**Test.php</mask>
       <mask>*inte*Test.php</mask>
       <mask>*integ*Test.php</mask>
       <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
@@ -37,6 +36,7 @@
       <mask>*.sql</mask>
       <mask>*sql</mask>
       <mask>*.php,!*Test.php</mask>
+      <mask>*.php,!*Test.php,!*testbase*</mask>
     </recentFileMasks>
   </component>
 </application>
