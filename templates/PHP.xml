@@ -44,4 +44,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="pre" value="print(&quot;&lt;pre&gt;&quot; . $TEXT$ . &quot;&lt;/pre&gt;&quot;);$END$" description="Echo &lt;pre&gt;-encapsulated" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
