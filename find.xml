@@ -1,39 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*integ*Test.php</mask>
-      <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,!</mask>
-      <mask>*.php,!*</mask>
-      <mask>*.php,!*T</mask>
-      <mask>*integration*Test.php</mask>
-      <mask>!*test*</mask>
-      <mask>*php,!*Test*</mask>
-      <mask>**Test*</mask>
-      <mask>*tpl*</mask>
-      <mask>*php</mask>
-      <mask>*.php,!*Test.p</mask>
-      <mask>*.t</mask>
-      <mask>*.tpl</mask>
-      <mask>*.php,*tpl</mask>
-      <mask>*.css</mask>
-      <mask>*tpl</mask>
-      <mask>*php,!*Test.php</mask>
-      <mask>*Test.php</mask>
-      <mask>p</mask>
-      <mask>up.sql</mask>
-      <mask>*.php</mask>
-      <mask>*.sql</mask>
-      <mask>*sql</mask>
-      <mask>*.php,!*Test.php</mask>
-      <mask>*.php*,!*testbase*</mask>
-      <mask>*.php,!*Test.php,!*testbase*</mask>
-    </recentFileMasks>
   </component>
 </application>
