@@ -7,9 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php,!*Test.php,!*testbase*" />
+    <option name="FILE_MASK" value="*Map.php,!*Test.php,!*testbase*" />
     <recentFileMasks>
-      <mask>*integ*Test.php</mask>
       <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
       <mask>*</mask>
       <mask>*.p</mask>
@@ -39,6 +38,7 @@
       <mask>*.php,!*Test.php</mask>
       <mask>*.php*,!*testbase*</mask>
       <mask>*.php,!*Test.php,!*testbase*</mask>
+      <mask>*Map.php,!*Test.php,!*testbase*</mask>
     </recentFileMasks>
   </component>
 </application>
