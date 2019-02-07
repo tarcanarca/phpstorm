@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
