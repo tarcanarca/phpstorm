@@ -3,5 +3,8 @@
     <default_templates>
       <template name="Migration.sql" reformat="false" live-template-enabled="false" />
     </default_templates>
+    <code_templates>
+      <template name="PHPUnit Test Method.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
   </component>
 </application>

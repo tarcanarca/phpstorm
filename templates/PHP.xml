@@ -63,4 +63,10 @@
     <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="test" value="public function $NAME$()&#10;{&#10;    $END$&#10;}" description="Generate test method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
