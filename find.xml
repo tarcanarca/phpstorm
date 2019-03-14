@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*php" />
     <recentFileMasks>
       <mask>ayment\Types::TYPE_MISTERCASH =&gt; [                 Model_Payment_MisterCash::PAYMENT_TYPE_ID,                 Money::EUR(7500),                 0.25,                 0.015,                 Money::EUR(7500),                 -0.25,             ],</mask>
       <mask>*</mask>
@@ -31,9 +32,9 @@
       <mask>*.php,!*Test.php,!*testbase*</mask>
       <mask>*Test.php</mask>
       <mask>*tpl*</mask>
-      <mask>*php</mask>
       <mask>*php,!*Test.php</mask>
       <mask>*sql</mask>
+      <mask>*php</mask>
     </recentFileMasks>
   </component>
 </application>
