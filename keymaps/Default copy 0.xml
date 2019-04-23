@@ -8,6 +8,10 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
@@ -42,6 +46,10 @@
   </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
