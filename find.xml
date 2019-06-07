@@ -15,6 +15,8 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
+    <mask>*Test.php</mask>
+    <mask>!*Test.php</mask>
     <mask>*.php,!*Test.php</mask>
   </component>
 </application>
