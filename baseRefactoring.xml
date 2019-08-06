@@ -10,7 +10,7 @@
     <option name="RENAME_CLASS_IN_FILE" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
-    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
     <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
   </component>
 </application>
