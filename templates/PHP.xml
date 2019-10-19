@@ -69,4 +69,10 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="translate" value="\Helper_Translate::translate($SELECTION$)" description="Surround with Translate helper call" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
 </templateSet>
