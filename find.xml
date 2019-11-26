@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../application/classes/payment/przelewy24/processor.php [mollie]'" />
+    <option name="defaultScopeName" value="File '.../application/classes/payment/przelewy24/processor.php [mollie]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../application/classes/payment/przelewy24/processor.php [mollie]'" />
     <option name="FILE_MASK" value="*.php,!*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
