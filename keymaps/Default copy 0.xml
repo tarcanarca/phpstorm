@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
@@ -70,11 +71,15 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="ShowUmlDiagramPopup" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl meta back_slash" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
   <action id="ToggleBookmark" />
   <action id="VcsHistory.ShowAllAffected" />
