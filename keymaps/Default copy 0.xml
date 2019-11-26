@@ -81,6 +81,9 @@
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta f" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="VcsHistory.ShowAllAffected" />
 </keymap>
