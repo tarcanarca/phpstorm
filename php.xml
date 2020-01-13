@@ -314,7 +314,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="487737ed-0386-420f-a7b2-f68a589d8a5e" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/mbs/tests/phpunit.xml" custom_loader_path="/var/www/mbs/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="487737ed-0386-420f-a7b2-f68a589d8a5e" load_method="CUSTOM_LOADER" configuration_file_path="/var/www/mbs/phpunit.xml" custom_loader_path="/var/www/mbs/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
