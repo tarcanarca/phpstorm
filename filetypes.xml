@@ -12,6 +12,7 @@
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="f" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
+      <mapping ext="camt052" type="PLAIN_TEXT" />
       <mapping ext="mt940" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
