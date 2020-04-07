@@ -5,6 +5,7 @@
         <cache>
           <versions>
             <info id="interpreter-487737ed-0386-420f-a7b2-f68a589d8a5e" version="8.5.2" />
+            <info id="interpreter-fb6e8809-0b14-48f5-b9d5-370a6e79fefc" version="7.5.11" />
           </versions>
         </cache>
       </tool>
