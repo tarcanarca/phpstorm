@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="53*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,5 +31,6 @@
     <mask>*.tpl.php</mask>
     <mask>*mt940</mask>
     <mask>*.php,!*Test.php,!*.tpl.php</mask>
+    <mask>53*.xml</mask>
   </component>
 </application>
