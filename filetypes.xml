@@ -15,6 +15,8 @@
       <mapping ext="mt940" type="PLAIN_TEXT" />
       <mapping ext="f" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
+      <mapping pattern="56-july10-c53" type="XML" />
+      <mapping pattern="56-july10-c53.xml" type="XML" />
     </extensionMap>
   </component>
 </application>
