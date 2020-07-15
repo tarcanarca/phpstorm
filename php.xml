@@ -2,20 +2,20 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="487737ed-0386-420f-a7b2-f68a589d8a5e" name="Remote PHP 7.3 (MBS)" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/tools/virtualmachines/development-ubuntu-xenial-xerus" MACHINE_NAME="mbs" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="$USER_HOME$/Sites/tools/virtualmachines/development-ubuntu-xenial-xerus" MACHINE_NAME="mbs" />
       </interpreter>
       <interpreter id="049aab78-c70f-49f3-922b-e7152237c82f" name="PHP 5.5" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="5ef2d9d7-6a76-437b-9b32-9160f1c2a611" name="PHP 7.0 MAMP" home="/Applications/MAMP/bin/php/php7.0.0//bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="d9557ace-1c67-4c35-bfe0-f6eff2a92bb5" name="PHP 7.3" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="fb6e8809-0b14-48f5-b9d5-370a6e79fefc" name="Remote PHP 7.3 (Mollie)" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/tools/virtualmachines/development-ubuntu-xenial-xerus" MACHINE_NAME="mollie" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VAGRANT_FOLDER="$USER_HOME$/Sites/tools/virtualmachines/development-ubuntu-xenial-xerus" MACHINE_NAME="mollie" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.8">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.9">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
