@@ -65,6 +65,9 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
