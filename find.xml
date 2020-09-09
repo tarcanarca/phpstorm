@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +24,6 @@
     <mask>*.php,!*Test.php</mask>
     <mask>*.php,!*Test.php,!*testbase*,!*.tpl.php</mask>
     <mask>*.php,!*Test.php,!*testbase.php,!*.tpl.php</mask>
-    <mask>*.yaml</mask>
     <mask>*.tpl.php</mask>
     <mask>*mt940</mask>
     <mask>53*.xml</mask>
@@ -31,5 +31,6 @@
     <mask>*Test*</mask>
     <mask>*Test.php</mask>
     <mask>*.php,!*Test.php,!*.tpl.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
