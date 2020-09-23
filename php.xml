@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="487737ed-0386-420f-a7b2-f68a589d8a5e" name="Remote PHP 7.3 (MBS)" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
