@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*Test.php,!*.tpl.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +31,8 @@
     <mask>*</mask>
     <mask>*Test*</mask>
     <mask>*.yaml</mask>
-    <mask>*.php,!*Test.php,!*.tpl.php</mask>
     <mask>*.tpl.php</mask>
     <mask>*Test.php</mask>
+    <mask>*.php,!*Test.php,!*.tpl.php</mask>
   </component>
 </application>
