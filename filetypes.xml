@@ -7,11 +7,11 @@
       <mapping pattern="37771" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="scenarios" type="PLAIN_TEXT" />
       <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="camt052" type="PLAIN_TEXT" />
       <mapping ext="mt940" type="PLAIN_TEXT" />
       <mapping ext="f" type="PLAIN_TEXT" />
