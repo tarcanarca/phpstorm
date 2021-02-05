@@ -16,7 +16,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.9">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.11">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
